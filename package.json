@@ -5,7 +5,7 @@
   "types": "dist/types.d.ts",
   "module": "dist/esm/index.js",
   "bugs": {
-    "url": "https://github.com/friktor/mielo-react-forms/issues"
+    "url": "https://github.com/mielo-ui/mielo-react-forms/issues"
   },
   "keywords": [
     "forms",

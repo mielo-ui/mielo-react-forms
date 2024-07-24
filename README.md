@@ -1,6 +1,14 @@
-# Mielo React Forms
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mielo-ui/mielo.css/main/logo.png" />
+</p>
 
-Component wrappers over forms for `react-hook-form`.
+<h1 align="center">
+  Mielo React Forms
+</h1>
+
+<p align="center">
+  Component wrappers over forms for `react-hook-form`.
+</p>
 
 ## Quick install
 
